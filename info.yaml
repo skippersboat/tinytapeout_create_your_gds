@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     456574982815064065       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     456576419565744129       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "tinytapeout_henningp_2bin_to_4bit_decoder"      # Project title
   author:       "Henning Petersen"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
